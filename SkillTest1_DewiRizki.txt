@@ -1,0 +1,4 @@
+Nama : Dewi Rizki Anggraeni
+Umur : 25 Tahun
+Stack : QA
+Bahasa Pemrogramman : Java
